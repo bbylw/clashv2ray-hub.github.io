@@ -1,10 +1,10 @@
-# 1月24日→20.5M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-24 09:51:08
+# 1月26日→20.5M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-26 09:51:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2ray-hub.github.io" target="_blank">点击跳转</a>
 
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
+| [KK加速](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 8 元 200G/月 |  |
 | [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
@@ -71,16 +71,16 @@
 
 ### Clash订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.yaml
+- https://a.nodeshare.xyz/uploads/2025/1/20250126.yaml
 -
 
 ### V2ray订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.txt
+- https://a.nodeshare.xyz/uploads/2025/1/20250126.txt
 - 
 ### Sing-box订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/1/20250124.json
+- https://a.nodeshare.xyz/uploads/2025/1/20250126.json
 ## 更多clash节点订阅 ：
 
 
