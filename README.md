@@ -15,7 +15,7 @@
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
-| [冰灵加速]](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
+| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
