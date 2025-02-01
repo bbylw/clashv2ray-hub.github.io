@@ -1,3 +1,7 @@
-"scripts": {
-  "generate-sitemap": "node generate-sitemap.js"
+{
+  "name": "clashv2ray-hub.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "generate-sitemap": "node generate-sitemap.js"
+  }
 }
