@@ -29,7 +29,7 @@ content_directory = 'free-nodes'
 urls = []
 for root, dirs, files in os.walk(content_directory):
     for file in files:
-        if file.endswith('.html'):
+        if file.endswith('.htm'):
             url = os.path.relpath(os.path.join(root, file), content_directory)
             urls.append(f'https://clashv2ray-hub.github.io/{url}')
 
