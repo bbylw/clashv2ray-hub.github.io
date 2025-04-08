@@ -72,16 +72,16 @@
 
 ### Clash订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/4/20250404.yaml
+- https://a.nodeshare.xyz/uploads/2025/4/20250408.yaml
 -
 
 ### V2ray订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/4/20250404.txt
+- https://a.nodeshare.xyz/uploads/2025/4/20250408.txt
 - 
 ### Sing-box订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/4/20250404.json
+- https://a.nodeshare.xyz/uploads/2025/4/20250408.json
 ## 更多clash节点订阅 ：
 
 
