@@ -14,6 +14,19 @@
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
+
+
+### [冲上云霄](#冲上云霄)
+
+注册链接：[点击进入](https://cpdd.one/?r=42354)
+
+试用：1天 1G
+
+最便宜的订阅有10元 300G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+
+* * *
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
 注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
