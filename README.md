@@ -11,10 +11,10 @@
 | [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
-| [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |
+| [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
-| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [星辰vpn](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [轻云](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 
@@ -44,9 +44,9 @@
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
 
 * * *
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
@@ -106,10 +106,10 @@
 
 
 
-### 高速机场推荐3【<a href="https://goudan.site/#/register?code=LQzUg4EU" target="_blank">西游云</a>】
+### 高速机场推荐3【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">西游云</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://goudan.site/#/register?code=LQzUg4EU" target="_blank">西游云（点击注册）</a>】
+- 网站注册地址：【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">西游云（点击注册）</a>】
 
 ### 高速机场推荐4【<a href="https://login.dg5.biz/#/register?code=O3l5SX1q" target="_blank">狗狗加速</a>】
 
